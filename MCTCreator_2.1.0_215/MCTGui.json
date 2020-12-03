@@ -1,0 +1,62 @@
+﻿{
+ "options": {
+  "usecpucount": false,
+  "autoclose": true,
+  "subfolderwotmod": false,
+  "nosendstats": false,
+  "silentmode": false,
+  "noupdateconfigs": false,
+  "cpucount": 2,
+  "useconfigsfolder": false,
+  "allinonewotmod": false,
+  "nohd": false,
+  "showoptions": true,
+  "nowotmod": false,
+  "removeoldwotmod": true,
+  "language": 1,
+  "configsfolder": ""
+ },
+ "mods": {
+  "mem": {
+   "enable": false,
+   "colorlist": "RkZGRkZGDQpERDc3NDQNCkIwQjBCMA0KRkZFMjAwDQoyRUIzMDANCjM2N0VGRg0KREQxREZGDQo=",
+   "color": "FFE200"
+  },
+  "dpt": {
+   "enable": true,
+   "removeshadow": true,
+   "colorlist": "RkZGRkZGDQpERDc3NDQNCkIwQjBCMA0KRkZFMjAwDQoyRUIzMDANCjM2N0VGRg0KREQxREZGDQo=",
+   "insidecolorlist": "RkZGRkZGDQpERDc3NDQNCkIwQjBCMA0KRkZFMjAwDQoyRUIzMDANCjM2N0VGRg0KREQxREZGDQo=",
+   "insidecolor": "B0B0B0",
+   "inside": true,
+   "color": "FFFFFF"
+  },
+  "ctm": {
+   "enable": true,
+   "colorlist": "RkZGRkZGDQpERDc3NDQNCkIwQjBCMA0KRkZFMjAwDQoyRUIzMDANCjM2N0VGRg0KREQxREZGDQo=",
+   "color": "DD7744"
+  },
+  "cct": {
+   "enable": true,
+   "colorlist": "RkZGRkZGDQpERDc3NDQNCkIwQjBCMA0KRkZFMjAwDQoyRUIzMDANCjM2N0VGRg0KREQxREZGDQo=",
+   "color": "367EFF"
+  },
+  "spacebinpatch": true,
+  "wotpath": "RjpcV29ybGRfb2ZfVGFua3NcV29ybGRPZlRhbmtzLmV4ZQ==",
+  "camo": {
+   "enable": false,
+   "visibility": 30
+  },
+  "modspath": {
+   "enable": true,
+   "path": "QzpcVXNlcnNcZWxla3Ryb3Ntb2tlclxPbmVEcml2ZVxSZWxIYXhfTW9kUGFja19Xb3JrXE1DVENyZWF0b3Jcd290bW9k"
+  }
+ },
+ "system": {
+  "settingsfile": {
+   "version": "1.1",
+   "date": "13.11.2020"
+  },
+  "exefile": "QzpcVXNlcnNcZWxla3Ryb3Ntb2tlclxPbmVEcml2ZVxSZWxIYXhfTW9kUGFja19Xb3JrXE1DVENyZWF0b3JcTUNUQ3JlYXRvcl8yLjAuOF8yMDFcTUNUQ3JlYXRvcjIuZXhl"
+ }
+}
