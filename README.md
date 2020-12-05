@@ -1,5 +1,5 @@
 # RelhaxMCT - "Monochromatic Crash Tanks" Creator 2
-###############################################################################################################
+
 # Description:
 The "MCTCreator2" program allows you to quickly and conveniently create ready-made modifications that 
 change the textures of models of destroyed tanks and other equipment by repainting them in a single color. 
@@ -21,10 +21,10 @@ https://koreanrandom.com/forum/topic/1578-
 
 # Developerconfigs:
 https://github.com/StranikS-Scan/MCTCreator-Configs
-###############################################################################################################
 
 
-###############################################################################################################
+
+
 # This RelhaxMCT repository consists of: 
 - this [README.md]
 - a folder called [MCTCreator] with the actual version and .bat-files
@@ -42,7 +42,7 @@ https://github.com/StranikS-Scan/MCTCreator-Configs
 
 
 
-HOW-TO use the .bat files:
+# HOW-TO use the .bat files:
 
 # TankSkinsMisc_deadTanks / TankSkinsMisc_crashedTracks
 
@@ -73,11 +73,11 @@ repeat...
 # this mod is using a patch for the "load_order.xml".
 # this means that there is a reference to the current name of the .wotmod files!
 # so you have to use the .bat or [rename the wotmod or edit the load_order.xml every time after creating].
-################################################################################################
 
 
 
-################################################################################################
+
+
 # Command Shell Instructions
 
 WIN32-format                    DOS-format                     Description
